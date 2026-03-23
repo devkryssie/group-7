@@ -27,3 +27,14 @@ console.log(`${firstName} is a ${job} from ${country}.`);
 
 
 //king and anita section
+let name = "Solex";
+let age = 34;
+let countr = "Nigeria";
+let hobby = "Coding";
+
+console.log(`
+Name: ${name}
+Age: ${age}
+Country: ${countr}
+Hobby: ${hobby}
+`);
